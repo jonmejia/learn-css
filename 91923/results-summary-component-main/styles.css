@@ -1,4 +1,6 @@
 .results{
     background-color: purple;
-    border: 10px solid red ;
+    border-radius: 15px;
+    height: 400px;
+    width: 300px;
 }
