@@ -1,6 +1,28 @@
+.container{
+font-family: 'Courier New', Courier, monospace;
+display: flex;
+flex-wrap:wrap
+}
+
 .results{
+    text-align: center;
     background-color: purple;
     border-radius: 15px;
     height: 400px;
     width: 300px;
+    color: grey;
 }
+.summary{
+    border-radius: 15px;
+    background-color: cadetblue;
+    height: 400px;
+    width: 300px;
+    color: black;
+}
+.results-title{
+    font-size: 24px;
+}
+.great,.score{
+    color: white;
+}
+
