@@ -14,7 +14,6 @@ flex-wrap:wrap
 }
 .summary{
     border-radius: 15px;
-    background-color: cadetblue;
     height: 400px;
     width: 300px;
     color: black;
@@ -24,5 +23,11 @@ flex-wrap:wrap
 }
 .great,.score{
     color: white;
+}
+.continueButton{
+    background-color: midnightblue;
+    border: none;
+    color: white;
+    border-radius: 30px;
 }
 
